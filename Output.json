@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "Bloomberg",
+            "title": "Centre may borrow $13 billion extra after excise cut on petrol, diesel: Report",
+            "description": "Higher collections from goods and services tax as well as personal income taxes will likely be neutralised by additional spending on food and fertiliser subsidies to the poor and farmers. | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/centre-may-borrow-13-billion-extra-to-offset-excise-cut-on-petrol-diesel-101653208783885.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/05/22/1600x900/4ba6d380-d929-11ec-9c44-6c63284ff8c5_1653155755235_1653208926438.jpg",
+            "publishedAt": "2022-05-22T08:45:49+00:00",
+            "content": "India will probably borrow the entire 1 trillion rupees ($12.9 billion) that the government will forgo as revenues due to a cut in gasoline and diesel levies, according to people familiar with the ma… [+1950 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Future foods: What you could be eating by 2050",
+            "description": "Scientists say we need to future-proof our diets in a warming world by eating little-known plants.",
+            "url": "http://www.bbc.co.uk/news/science-environment-61505548",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/116EA/production/_124820417_gettyimages-1210772412.jpg",
+            "publishedAt": "2022-05-22T00:37:23.1605783Z",
+            "content": "By Helen BriggsEnvironment correspondent\r\nImage source, Getty Images\r\nImage caption, Just three crops are the staple for more than four billion people\r\nScientists have drawn up a list of little-known… [+3508 chars]"
+        },
+        {
+            "source": {
+                "id": "the-huffington-post",
+                "name": "The Huffington Post"
+            },
+            "author": "AP",
+            "title": "Buffalo Shooting Leaves Community With No Supermarket For Miles Around",
+            "description": "\"Going to that Tops knowing that this side of the city is a food desert was intentional, it was deliberate, and it was evil.\"",
+            "url": "https://www.huffpost.com/entry/buffalo-shooting-tops-closed-food-desert_n_6289156fe4b0edd2d0168d8d",
+            "urlToImage": "https://img.huffingtonpost.com/asset/62891609210000ee2450899d.jpeg?cache=T8vFd74BvV&ops=1778_1000",
+            "publishedAt": "2022-05-21T16:49:40Z",
+            "content": "BUFFALO, N.Y. (AP) Tops Friendly Market was more than a place to buy groceries. As the only supermarket for miles, it became a sort of community hub on Buffalos East Side where you chatted with neigh… [+5779 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ann Hornaday",
+            "title": "The ‘margarita diplomacy’ of José Andrés",
+            "description": "The National Geographic film focuses on Andrés’s emergency food relief organization and his canny understanding of the power levers in Washington.",
+            "url": "https://www.washingtonpost.com/movies/2022/05/21/jose-andres-ron-howard-documentary/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RSODKOWWBQI6ZPQXFBQWJF2MKQ.jpg&w=1440",
+            "publishedAt": "2022-05-21T10:00:35Z",
+            "content": "Placeholder while article actions load\r\nJosé Andrés is Zooming from New York City, where he and Ron Howard are doing publicity for Howards newNational Geographic documentary We Feed People, about And… [+7512 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "U.S. inflation jumped 8.5 percent in past year, highest since 1981",
+            "description": "Prices have been driven up by bottlenecked supply chains, robust consumer demand and disruptions to global food and energy markets worsened by Russia’s war against Ukraine.",
+            "url": "https://www.politico.com/news/2022/04/12/u-s-inflation-8-5-percent-00024623",
+            "urlToImage": "https://static.politico.com/d2/98/582ef5fa4e06a2845e0d472d5985/nerdwallet-kimberly-palmer-automate-financial-tasks-30421.jpg",
+            "publishedAt": "2022-04-12T12:49:22+00:00",
+            "content": "The governments report also showed that inflation rose 1.2 percent from February to March, up from a 0.8 percent increase from January to February.\r\nThe March inflation numbers were the first to capt… [+931 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "Dipak K Dash",
+            "title": "Government to provide 5 kg free food grains to poor for May & June",
+            "description": "India News: The government on Friday announced to provide 5 kg free food grains to the poor for May and June 2021. This will cover nearly 80 crore beneficiaries u",
+            "url": "http://timesofindia.indiatimes.com/india/government-to-provide-5-kg-free-food-grains-to-poor-for-may-june/articleshow/82213582.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-82213583,width-1070,height-580,imgsize-1921513,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-04-23T04:23:00Z",
+            "content": null
+        }
+    ]
+}
