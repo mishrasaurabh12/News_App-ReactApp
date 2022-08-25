@@ -43,7 +43,7 @@ export default class Navbar extends Component {
                                 <li className="nav-item">
                                     <Link className={`nav-link text-${this.state.txtColor}`} aria-current="page" to="/">Home</Link>
                                 </li>
-                                <li className="nav-item">
+                                {/* <li className="nav-item">
                                     <Link className={`nav-link text-${this.state.txtColor}`} to="/business">Business</Link>
                                 </li>
                                 <li className="nav-item">
@@ -63,7 +63,7 @@ export default class Navbar extends Component {
                                 </li>
                                 <li className="nav-item">
                                     <Link className={`nav-link text-${this.state.txtColor}`} to="/technology">Technology</Link>
-                                </li>
+                                </li> */}
 
                             </ul>
                         </div>
